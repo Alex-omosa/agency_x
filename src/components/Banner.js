@@ -8,15 +8,15 @@ function Banner() {
         <div className="row">
           <h2>
             <div className="line">
-              <span>Creating unique brands is</span>
+              <span>Crafting quality websites is</span>
             </div>
             <div className="line">
-              <span>what we do.</span>
+              <span>what I do.</span>
             </div>
           </h2>
           <div className="btn-row">
             <a href="/">
-              More about is <RightArrow />
+              More about me <RightArrow />
             </a>
           </div>
         </div>
